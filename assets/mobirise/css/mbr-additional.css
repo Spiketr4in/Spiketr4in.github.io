@@ -4569,6 +4569,27 @@ a {
 .cid-suWH8qU4Zh {
   background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
+.cid-sv3ylVeRjS {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sv3ylVeRjS .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sv3ylVeRjS .row {
+  flex-direction: row-reverse;
+}
+.cid-sv3ylVeRjS img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sv3ylVeRjS .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-suWH8rA6jE {
   z-index: 1000;
   width: 100%;
