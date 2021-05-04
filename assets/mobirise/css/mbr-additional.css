@@ -6230,6 +6230,19 @@ a {
 .cid-sv4kVpjYTy {
   background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
+.cid-swu7K5Crkr {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-swu7K5Crkr .video-wrapper iframe {
+  width: 100%;
+}
+.cid-swu7K5Crkr .mbr-section-title,
+.cid-swu7K5Crkr .mbr-section-subtitle,
+.cid-swu7K5Crkr .mbr-text {
+  text-align: center;
+}
 .cid-sv4kVqGyBD {
   padding-top: 6rem;
   padding-bottom: 6rem;
